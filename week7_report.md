@@ -32,6 +32,4 @@
 
 This week marked significant progress in establishing a functional communication setup with the Unitree Go1 robot and integrating the ORB-SLAM algorithm. The challenges faced were effectively addressed, laying a strong foundation for future developments in autonomous navigation and mapping.
 
----
 
-Feel free to reach out for any further details or clarifications on the progress made this week.
